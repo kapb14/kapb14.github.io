@@ -2,12 +2,27 @@
 
 - title: FirstPost
   url: /firstpost/
-  excerpt: excerpt: "Ok computer :)"
+  excerpt: "Первый пост"
+  image: teaser_06.jpg
+
+
+- title: sudo
+  url: /tips/simple-sudo-on-windows/
+  excerpt: "небольшой лайфхак для пользователей Windows, которые скучают по Linux-овому 'sudo'"
+  image: teaser_05.jpg
+
+
+
+
 
 #- title: Portfolio
 #  url: /portfolio/
 #  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
 #  image: 300x200.gif
 
-- title: External Page One
-  url: http://mademistakes.com
+
+## откроется http://kapb14.github.io/mademistakes.com
+#- title: External Page One
+#  url: http://mademistakes.com
+
+
