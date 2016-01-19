@@ -1,10 +1,10 @@
 # Site wide configuration
 title: My Blog
 description: "My personal blog"
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+logo: Holly_Karushin.jpg # 120x120 px default image used for Twitter summary card
+teaser: teaser_05.jpg # 400x250 px default teaser image used in image archive grid
 locale: ru
-url: http://127.0.0.1:4000
+url: http://kapb14.github.io
 
 # Jekyll configuration
 
@@ -28,8 +28,20 @@ owner:
     ad-client:
     ad-slot:
   bio:
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-  disqus-shortname:
+  avatar: Selfy1_Karushin_wrapped.jpg # 160x160 px image for author byline
+  disqus-shortname: kapb14
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+
+
+
+
+
+
+
+
+
+
+
+
