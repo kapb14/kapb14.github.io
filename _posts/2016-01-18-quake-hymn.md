@@ -3,7 +3,7 @@ layout: article
 title: "Марш отцов"
 categories: old
 tags:
--oldschool
+- oldschool
 - games
 image:
   teaser: teaser_05.jpg
