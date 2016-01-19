@@ -9,7 +9,7 @@ tags:
 image:
   teaser: teaser_01.jpg
   feature: featured_01.jpg 
-
+permalink: /firstpost/  
 ---
 
 Решил перенести свой блог с blogspot на github.io (он же Github Pages) с использованием Jekyll. 
