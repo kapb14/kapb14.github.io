@@ -6,6 +6,10 @@ description: Проба пера на новом блоговом движке �
 categories: tests
 tags:
 - jekyll
+image:
+  teaser: teaser_01.jpg
+  feature: featured_01.jpg 
+
 ---
 
 Решил перенести свой блог с blogspot на github.io (он же Github Pages) с использованием Jekyll. 

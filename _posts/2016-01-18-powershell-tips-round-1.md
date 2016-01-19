@@ -5,7 +5,10 @@ categories: old
 tags:
 - powershell
 - basics
-teaser: teaser_02.jpg
+image:
+  teaser: teaser_02.jpg
+  feature: featured_02.jpg 
+
 ---
 
 Для  начала, PowerShell 3.0 в powershell_ise.exe  из под админа на своей workstation. 

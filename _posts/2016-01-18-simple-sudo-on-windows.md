@@ -5,7 +5,9 @@ categories: tips
 tags:
 - batch
 - windows
-teaser: teaser_03.jpg
+image:
+  teaser: teaser_03.jpg
+  feature: featured_03.jpg 
 ---
 
 Нередко в повседневной работе возникает необходимость запустить какой-нибудь скрипт в из-под администратора. В *nix'ах для этого принято использовать **sudo**. Ниже я покажу как реализовать похожий функционал для Windows. 
