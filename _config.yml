@@ -6,6 +6,7 @@ teaser: teaser_05.jpg # 400x250 px default teaser image used in image archive gr
 locale: ru
 url: http://kapb14.github.io
 
+
 # Jekyll configuration
 
 sass:
@@ -24,12 +25,18 @@ owner:
   name: "Alexander Karushin"
   email: kapb14@gmail.com
   twitter: kapb14
+  github: mmistakes
+  facebook: aleksandr.karushin
+  instagram: karushin
   google:
+    plus: +АлександрКарушин
     ad-client:
     ad-slot:
-  bio:
+  bio: "Just another boring sysadmin."
   avatar: Selfy1_Karushin_wrapped.jpg # 160x160 px image for author byline
   disqus-shortname: kapb14
+
+  # https://kapb14.disqus.com/admin
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
